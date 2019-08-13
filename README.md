@@ -1,6 +1,6 @@
 # vue-product
 
-> A Vue.js project
+> 基于vue的一个挖矿的管理平台
 
 ## Build Setup
 
