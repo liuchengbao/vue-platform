@@ -1,0 +1,2 @@
+export const SET_USETINFO = 'SET_USETINFO'
+export const GET_USERINFO = 'GET_USERINFO'
